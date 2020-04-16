@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DonotPickup-android</string>
+    <string name="stop_text">アラーム解除中</string>
+    <string name="start_text">アラーム起動中</string>
+
+</resources>
